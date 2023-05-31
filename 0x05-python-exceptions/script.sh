@@ -9,3 +9,5 @@ for file in "$directory"/*; do
     fi
 done
 
+
+
