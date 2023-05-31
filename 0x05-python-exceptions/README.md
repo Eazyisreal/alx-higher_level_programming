@@ -15,3 +15,5 @@
 100. prints if integer; prints error to stderr
 101. executes a function safely
 102. write Python function that corresponds to a certain bytecode
+
+
