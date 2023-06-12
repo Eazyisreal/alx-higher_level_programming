@@ -22,3 +22,4 @@
 11. implement area and print
 100. 100- class MyInt that inherits from int; inverts == and != operations
 101. 101- set attribute to object if possible
+
